@@ -1,14 +1,23 @@
-### Hi there 👋
-I'm a robotics graduate student seeking an internship in the fields of computer vision, path planning,
-and deep learning. Eager to apply academic knowledge and skills in a practical setting. Available to commence internship
-in May 2024
-<!--
-**rohithvikram123/rohithvikram123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Rohith Vikram! 👋
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on Leetcode problems, Computer vision project implementing deeplearning 
-- 🌱 I’m currently learning ROS2 with C++ 
+## 👨‍💻 About Me
+- 🎓 Studying Masters in Robotics at University of Maryland, College Park
+- 🌱 I’m currently learning Deep Learning
+- 👯 I’m looking to collaborate on Deep Learning, Computer Vision, Robotics Software(SLAM, Nav2, Sensor Fusion) projects.
 - 📫 How to reach me: rohithvs@umd.edu
+- 😄 Pronouns: He/Him
 
+## 🛠️ Technologies & Tools
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
+## 🔥 My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YourGitHub&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHub&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📫 How to Reach Me
+- LinkedIn: https://www.linkedin.com/in/rohithvikram/
+- Email: rohithvs@umd.edu
